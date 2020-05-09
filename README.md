@@ -12,7 +12,10 @@
 #### 3 MY WEB PAGE 
 ##### *link*  https://jinnan-yun.github.io/jinnan-yun.io/
 ##### *team member* web page : 페이지 안에 링크 연결(추가)
-[고유미][https://yumi-koh.github.io/] [노지영][http://yesjiyoung.github.io/] [유지건][https://yujigun.github.io/] [이혜선][https://hyeseonlee.github.io/]
+[고유미][https://yumi-koh.github.io/] 
+[노지영][http://yesjiyoung.github.io/] 
+[유지건][https://yujigun.github.io/]
+[이혜선][https://hyeseonlee.github.io/]
 - - -
 ###### Assignment 6
 #### 4 Android App / github_page
