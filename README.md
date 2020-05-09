@@ -10,12 +10,12 @@
 - - -
 ###### Assignment 1, 4
 #### 3 MY WEB PAGE 
-##### *link* : https://jinnan-yun.github.io/jinnan-yun.io/
-##### *team member* web page : 페이지 안에 링크 연결(+추가, assignment 4)
+##### - *link* : https://jinnan-yun.github.io/jinnan-yun.io/
+##### - *team member* web page : 페이지 안에 링크 연결(+추가, assignment 4)
 - - -
 ###### Assignment 6
 #### 4 Android App  
-#### : *github_Page / WebView*
+#### : github_Page / *WebView*
 
 ##### - 6th 파일 : 애플리케이션 실행 화면 캡쳐 사진 
 
