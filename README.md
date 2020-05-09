@@ -15,4 +15,6 @@
 ###### Assignment 6
 #### 4 Android App : github_page
 #####    6th - 애플리케이션 실행 화면 캡쳐
+
 #####    code를 push하는 과정에서 6th directory에 넣지 못하고 OSS_introduce repo에 push가 되었습니다. (push하는 과정에서 오류가 생겨 전에 있던 파일이 사라졌고 전에 있던 commit 내용도 지워졌습니다. 그래서 동일 내용을 다시 commit 했습니다.)
+
