@@ -10,8 +10,9 @@
 - - -
 ###### Assignment 1, 4
 #### 3 MY WEB PAGE 
-##### - *link* : https://jinnan-yun.github.io/jinnan-yun.io/
-##### - *team member* web page : 페이지 안에 링크 연결(+추가, assignment 4)
+##### - *page link* : https://jinnan-yun.github.io/jinnan-yun.io/
+##### - *git hub repo link* : https://github.com/Jinnan-Yun/jinnan-yun.io
+##### - *team member* web page : PROJECT 탭 안에 링크 연결(+추가로 작성, assignment 4)
 - - -
 ###### Assignment 6
 #### 4 Android App  
