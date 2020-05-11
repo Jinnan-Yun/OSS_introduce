@@ -1,6 +1,6 @@
 - - -
 ###### Assignment 3
-### 오픈소스 SW 개발 팀 소개  
+### |오픈소스 SW 개발 팀 소개|
 
 #### 1 팀 이름 : hola
 
@@ -16,7 +16,7 @@
 - - -
 ###### Assignment 6
 #### 4 Android App
-##### |github_Page*, *WebView*|
+##### : *github_Page*, *WebView*
 
 ##### - 6th 파일 : 애플리케이션 실행 화면 캡쳐 사진 
 
